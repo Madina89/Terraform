@@ -21,6 +21,6 @@ resource "aws_security_group" "sec1" {
         Name = "Dev"
         Dept =  "IT"
         Group = "April"
-        Created_by = "Farrukh"
+        Created_by = "Madina"
     }
 }
